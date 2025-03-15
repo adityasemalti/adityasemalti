@@ -16,14 +16,14 @@ A **food ordering website** built with React.js.
 ### 📌 [Employee Management System](https://employee-management-sytstem.vercel.app/)
 A dashboard for managing employees and tracking tasks using **React.js & Tailwind CSS**.
 
-### 📌 [E-commerce Website](https://github.com/your-username/ecommerce-mern)
-A full-fledged **e-commerce platform** built with **MERN stack**.
+### 📌 [Buzz-Bite](https://bite-five.vercel.app/)
+A food Restraunt Website for ordering your favourite dishes
 
 ### 📌 [Sign Language Detection Model](https://github.com/your-username/sign-language-detection)
 A machine learning model for **sign language recognition**.
 
 ## 📫 Connect With Me
-- 💼 [![LinkedIn](https://www.linkedin.com/in/aditya-semalti-199264257)
+- 💼 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-semalti/199264257)
 - 🐦 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-profile)
 - 🌎 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio.com)
 - 📧 Email: adityasemalti31@gmail.com
