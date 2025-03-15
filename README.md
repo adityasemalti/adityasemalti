@@ -10,7 +10,7 @@ I'm a passionate **MERN Stack Developer** with experience in building modern web
 - 🎨 **UI/UX Design**: ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ## 🛠 Projects
-### 📌 [Hunger Smashers](https://github.com/your-username/hunger-smashers)
+### 📌 [Hunger Smashers](https://hunger-smashers.vercel.app/)
 A **food ordering website** built with React.js.
 
 ### 📌 [Employee Management System](https://github.com/your-username/employee-management-system)
