@@ -19,8 +19,8 @@ A dashboard for managing employees and tracking tasks using **React.js & Tailwin
 ### 📌 [Buzz-Bite](https://bite-five.vercel.app/)
 A food Restraunt Website for ordering your favourite dishes
 
-### 📌 [Sign Language Detection Model](https://github.com/your-username/sign-language-detection)
-A machine learning model for **sign language recognition**.
+### 📌 [Clothing Hub- Ecommerce Store](https://clothing-hub-frontend.vercel.app)
+An e-commerce website built using MERN stack and complete authentication, along with the admin panel .
 
 ## 📫 Connect With Me
 - 💼 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-semalti-199264257)
