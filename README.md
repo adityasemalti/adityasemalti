@@ -13,11 +13,11 @@ I'm a passionate **MERN Stack Developer** with experience in building modern web
 ### 📌 [Hunger Smashers](https://hunger-smashers.vercel.app/)
 A **food ordering website** built with React.js.
 
-### 📌 [Employee Management System](https://employee-management-sytstem.vercel.app/)
-A dashboard for managing employees and tracking tasks using **React.js & Tailwind CSS**.
+### 📌 [Chatter-Box](https://chatter-box-bice.vercel.app)
+Real time chatting application that helps you to have your conversation with highly protected and private medium.
 
-### 📌 [Buzz-Bite](https://bite-five.vercel.app/)
-A food Restraunt Website for ordering your favourite dishes
+### 📌 [AI Background-Remover](https://bg-remover-oe5l.vercel.app)
+A bachground removing app that helps you to make your images free of background with the use of external APIs
 
 ### 📌 [Clothing Hub- Ecommerce Store](https://clothing-hub-frontend.vercel.app)
 An e-commerce website built using MERN stack and complete authentication, along with the admin panel .
